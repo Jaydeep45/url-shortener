@@ -2,6 +2,8 @@
 
 Small Spring Boot service that creates and manages shortened URLs.
 
+URL: https://roadmap.sh/projects/url-shortening-service
+
 Overview
 - Java 21, Spring Boot 4
 - PostgreSQL for persistence
